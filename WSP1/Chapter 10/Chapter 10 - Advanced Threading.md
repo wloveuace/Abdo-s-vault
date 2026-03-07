@@ -103,7 +103,7 @@ We wont talk much about this section since its relatively straight forward.
 
 ## ==**Caches and Cache Lines**==
 
-In the early daysofmicroprocessors, the CPUs’speedsandthememory’s(RAM)speedswere comparable. Then CPU speeds went up and memory speeds lagged. This leads to a situation
+In the early days of microprocessors, the CPUs’ speeds and the memory’s (RAM) speeds were comparable. Then CPU speeds went up and memory speeds lagged. This leads to a situation
 where the CPU stalls a lot, waiting for memory to read or write a value. To compensate, a cache was introduced between the CPU and memory
 
 The cache is a fast memory compared to main memory, which allows the CPU to stall less. Naturally, the cache is not nearly as large as main memory, but its existence is essential in today’s systems.
