@@ -14,7 +14,8 @@ Here we will post all the MD files for books \
 ---
 ### Content updates:
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)
-- Added chapter 1 *Modern C* (3/4/2026)
+- Added Chapter 1 *Modern C* (3/4/2026)
+- Added Chapter 10 *Windows system programming 1* (3/7/2026)
 ---
 # Instructions
 1. Download obsidian
@@ -23,5 +24,5 @@ Here we will post all the MD files for books \
 
 ---
 # Remarks:
-- Windows system programming part 1 has chapters 10-11-12 missing
+- Windows system programming part 1 has chapters 11-12 missing
 - ~~ANSI C has last chapter not fully Covered~~ | Completed ( 3/2/2026 ) ✅
