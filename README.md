@@ -8,14 +8,16 @@ Here we will post all the MD files for books \
 - Windows system programming part 1  
 ---
 ### Upcomming: 
-- Modern C  
+- ~~Modern C  (DELAYED)~~
 - Windows system programming part 2  
-
+- SICP - Structure and Interpretation of Computer Programs
 ---
 ### Content updates:
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)
 - Added Chapter 1 *Modern C* (3/4/2026)
 - Added Chapter 10 *Windows system programming 1* (3/7/2026)
+- Discountuned Modern c (Temporarily)
+- SICP will be summerized & released 
 ---
 # Instructions
 1. Download obsidian
@@ -26,3 +28,4 @@ Here we will post all the MD files for books \
 # Remarks:
 - Windows system programming part 1 has chapters 11-12 missing
 - ~~ANSI C has last chapter not fully Covered~~ | Completed ( 3/2/2026 ) ✅
+- Modern C folder will be discontinued and summerized in one file such as ANSI C
