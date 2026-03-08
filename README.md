@@ -16,7 +16,7 @@ Here we will post all the MD files for books \
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)
 - Added Chapter 1 *Modern C* (3/4/2026)
 - Added Chapter 10 *Windows system programming 1* (3/7/2026)
-- Discountuned Modern c (Temporarily) (3/8/2026)
+- Discontinued Modern c (Temporarily) (3/8/2026)
 ---
 # Instructions
 1. Download obsidian
