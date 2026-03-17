@@ -21,6 +21,7 @@ Here we will post all the MD files for books \
 - Added a basic AI diffusion course (3/10/2026)
 - Beej’s Guide to Network Programming paper , Documented till 4.2 (3/14/2026)
 - Beej’s Guide to Network Programming paper , Documented till 5.3 (3/15/2026)
+- Windows system programming part 1 , Chapter 11 (3/17/2026)
 ---
 # Instructions
 1. Download obsidian
@@ -29,6 +30,6 @@ Here we will post all the MD files for books \
 
 ---
 # Remarks:
-- Windows system programming part 1 has chapters 11-12 missing
+- Windows system programming part 1 has chapters 12 missing
 - ~~ANSI C has last chapter not fully Covered~~ | Completed ( 3/2/2026 ) ✅
 - Modern C folder will be discontinued and summerized in one file such as ANSI C
