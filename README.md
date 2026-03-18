@@ -5,11 +5,11 @@ Here we will post all the MD files for books \
 
 ### Currently uploaded: 
 - The C programming book
-- Windows system programming part 1  
+- Windows system programming part 1
+- Beej’s Guide to Network Programming
 ---
 ### Upcomming: 
 - ~~Modern C  (DELAYED)~~
-- Beej’s Guide to Network Programming paper
 - Windows system programming part 2  
 - SICP - Structure and Interpretation of Computer Programs
 ---
@@ -22,6 +22,7 @@ Here we will post all the MD files for books \
 - Beej’s Guide to Network Programming paper , Documented till 4.2 (3/14/2026)
 - Beej’s Guide to Network Programming paper , Documented till 5.3 (3/15/2026)
 - Windows system programming part 1 , Chapter 11 (3/17/2026)
+- Beej’s Guide to Network Programming Completed (3/18/2026)
 ---
 # Instructions
 1. Download obsidian
