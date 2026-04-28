@@ -10,8 +10,8 @@ Here we will post all the MD files for books \
 ---
 ### Upcomming: 
 - Modern C
-- Windows internals part 1
 - Computer systems a programmer's prespective
+- Memory allocation algorithms paper
 - ~~Beej’s Guide to Network Programming~~
 - ~~Windows System Programming Part 1~~
 - ~~The C programming Language~~
@@ -38,7 +38,9 @@ Here we will post all the MD files for books \
 - Windows System Programming completed (4/13/2026)
 - CSAPP chapter 1 (4/14/2026)
 - Windows internals chapter 3 part 1 (4/20/2026)
-- Memory allocation strategies 1/7 (4/22/2026) 
+- Memory allocation strategies 1/7 (4/22/2026)
+- Memory allocation strategies 2/7 (4/28/2026)
+- Memory allocation strategies 3/7 (4/28/2026)
 ---
 # Instructions
 1. Download obsidian
