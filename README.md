@@ -14,6 +14,7 @@ Here we will post all the MD files for books \
 ---
 ### Upcomming: 
 - Modern C
+- CSAPP
 ---
 ### Content updates:
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)
@@ -36,6 +37,8 @@ Here we will post all the MD files for books \
 - Memory allocation strategies 6/6 (5/6/2026)
 - Introduction to GCC book (5/12/2026)
 - Basics of bash scripting (5/17/2026)
+- CSAPP chapter 1 (5/25/2026)
+- CSAPP chapter 2 - Till section 2.3 (5/25/2026)
 ---
 # Instructions
 1. Download obsidian
