@@ -15,6 +15,7 @@ Here we will post all the MD files for books \
 ### Upcomming: 
 - Modern C
 - CSAPP
+- Assembly x86-64 
 ---
 ### Content updates:
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)
